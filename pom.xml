@@ -9,7 +9,7 @@
 
     <packaging>war</packaging>
 
-    <name>Minimal Spring mvc project</name>
+    <name>hopeforrefugees</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
